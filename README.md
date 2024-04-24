@@ -26,7 +26,7 @@ This repository contains code for building a credit risk classification model. T
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/<username>/credit-risk-classification.git
+   git clone https://github.com/RajDeep-Chakravorty/COGNORISE-HACKATHON-C-T-BANK-CREDIT-CLASSIFICATION.git
    ```
 
 2. **Install Dependencies**: Ensure you have all the necessary libraries installed. You can install them using `pip`:
