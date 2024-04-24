@@ -59,7 +59,7 @@ Based on the evaluation metrics, the Gradient Boosting model achieved the highes
 
 ## Contributors
 
-- [Rajdeep Chakravorty](https://github.com/RajDeep-Chakravorty)
+- [Rajdeep Chakravorty](https://github.com/RajDeep-Chakravorty) <br>
 Feel free to contribute by opening issues, proposing new features, or submitting pull requests.
 
 ## License
