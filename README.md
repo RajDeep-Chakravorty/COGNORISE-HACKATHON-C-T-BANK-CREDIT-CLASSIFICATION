@@ -9,6 +9,7 @@ This repository contains code for building a credit risk classification model. T
 - `Credit_Risk_Classification.ipynb`: Jupyter Notebook containing the code for data preprocessing, exploratory data analysis, model training, evaluation, and hyperparameter tuning.
 - `C&T train dataset.csv`: Training dataset containing labeled data for model training.
 - `C&T test dataset.csv`: Testing dataset containing labeled data for evaluating model performance.
+- `submission.csv`: CSV file containing the model predictions for the test dataset.
 - `README.md`: This file, containing information about the repository.
 
 ## Libraries Used
@@ -37,7 +38,7 @@ This repository contains code for building a credit risk classification model. T
 
 3. **Run the Notebook**: Open and run the `Credit_Risk_Classification.ipynb` notebook in Jupyter or any compatible environment. Follow the instructions and execute each cell to preprocess the data, train the model, and evaluate its performance.
 
-## Data
+## Input Data
 
 The dataset consists of two CSV files:
 
